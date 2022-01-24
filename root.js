@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
-
+//bug ok 
 // import {dirname} from 'path';
 // import {fileURLToPath} from 'url';
 
